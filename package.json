@@ -12,6 +12,7 @@
 	"license": "MIT",
 	"author": "stebeus",
 	"type": "module",
+	"exports": "./biome.jsonc",
 	"devEngines": {
 		"packageManager": {
 			"name": "pnpm",
