@@ -22,7 +22,7 @@
 	"type": "module",
 	"exports": "./biome.jsonc",
 	"scripts": {
-		"publish": "pnpm publish --access public"
+		"publish": "pnpm publish --access public --no-git-checks"
 	},
 	"devEngines": {
 		"packageManager": {
