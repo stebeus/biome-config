@@ -1,6 +1,6 @@
 # Biome configuration
 
-My shared Biome configurations.
+My shared Biome configuration.
 
 ## Installation
 
