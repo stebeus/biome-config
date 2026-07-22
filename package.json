@@ -21,6 +21,9 @@
 	"author": "stebeus",
 	"type": "module",
 	"exports": "./biome.jsonc",
+	"scripts": {
+		"publish": "pnpm publish --access public"
+	},
 	"devEngines": {
 		"packageManager": {
 			"name": "pnpm",
